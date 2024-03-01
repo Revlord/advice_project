@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/advice_project/static/css/main.23ee22d1.css",
+    "main.js": "/advice_project/static/js/main.f6603a58.js",
+    "static/media/background.png": "/advice_project/static/media/background.e16c5a72d8ae78ccb3eb.png",
+    "index.html": "/advice_project/index.html",
+    "main.23ee22d1.css.map": "/advice_project/static/css/main.23ee22d1.css.map",
+    "main.f6603a58.js.map": "/advice_project/static/js/main.f6603a58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23ee22d1.css",
+    "static/js/main.f6603a58.js"
+  ]
+}
