@@ -1,5 +1,5 @@
 {
-  "homepage": "http://revlord.github.io/advice_project",
+  "homepage": "https://revlord.github.io/advice_project",
   "name": "advice_project",
   "version": "0.1.0",
   "private": true,
@@ -16,10 +16,10 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -42,5 +42,4 @@
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
-  
 }
